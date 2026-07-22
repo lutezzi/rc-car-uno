@@ -69,5 +69,3 @@ Link: https://play.google.com/store/apps/details?id=com.giristudio.hc05.bluetoot
 ## Hazırlayanlar
 
 1. **Yiğit Can Yılmaz**
-2. **Eda Tuğba Gülci**
-3. **Mihriban Janmuradova**
