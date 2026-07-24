@@ -58,6 +58,10 @@ Projede kullanılan özel bağlantı yapısı:
 
 Çift L298N kullanımı sayesinde aracın hem çekiş sistemi (ön/arka motorlar) hem de manevra sistemi (sağ/sol motoru) birbirinden bağımsız ve güçlü bir şekilde kontrol edilebilmektedir.
 
+## Proje Görseli
+
+![Proje RC Arabanın görseli](media/rc-car.png)
+
 ## Kontrol Uygulaması
 
 ![Kontrol uygulaması ekran görüntüsü](media/image.png)
